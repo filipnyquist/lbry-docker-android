@@ -1,2 +1,3 @@
 # lbry-docker-android
-Android docker buildozer deployer
+Android docker buildozer deployer..
+More info soon...
